@@ -2,12 +2,13 @@
 # DOMS Iframe Responsive
 
 ## Installation
-- Goto **Plugins** select click **Add new**
-- Select the plugin file **doms-iframe-responsive.zip**
-- Click **Install Now**
-- Into **POST**, **PAGE** or **HTML WIDGET** add URL from Maps, Youtube, Vimeo to add iframe
+- Goto **Widgets**
+- Select **DOMS Iframe Responsive**
+- Drag & drop into sidebar position favorite.
+- Type title.
+- Add URL from Maps, Youtube, Vimeo to add iframe
 - Save
-- Enjoy. 
+- Enjoy.
 
 
 ## FAQ's
